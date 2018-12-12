@@ -1,2 +1,1 @@
-# hackerrank
-Hackrank Problem Solutions 
+# Hackrank Problems
